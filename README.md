@@ -15,9 +15,13 @@ This repository contains a deep learning workflow for **time series forecasting*
 ---
 
 ## Repository Structure
+
 ├── data/
+
 │ └── README.md # Dataset links + download notes
+
 ├──sst-time-series-forecasting implementation.ipynb # Main notebook (training + evaluation)
+
 └── README.md
 
 
